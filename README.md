@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/sonnylazuardi/react-native-bouncing-preloader/master/bouncingpreloader.gif)
+![MasterHead](https://raw.githubusercontent.com/sonnylazuardi/react-native-bouncing-preloader/master/bouncingpreloader.gif)
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate MERN and MOBILE APP[REACT NATIVE] developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
