@@ -1,14 +1,10 @@
-![logo](https://github.com/0Rohit2022/0Rohit2022/blob/main/coding.jpg)
+
 <h1 align="center">Hi 👋, I'm Rohit kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0rohit2022&label=Profile%20views&color=0e75b6&style=flat" alt="0rohit2022" /> </p>
-
-- 🔭 I’m currently working on [Shopme](https://github.com/0Rohit2022/Shopmeapp)
-
-- 🌱 I’m currently learning **Nodejs , Reactjs, HTML, CSS, JAVASCRIPT, BOOTSTRAP , MONGODB , ANGULAR,**
 
 - 💬 Ask me about **Java, Spring, Microservices, Agile Scrum, MySQl, Hibernate, Spring boot, JSP, JSTL, Nodejs, HTML , CSS , JAVASCRIPT, J2ee, JDBC**
 
