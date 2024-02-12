@@ -13,7 +13,7 @@
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer with a huge love for MERN(MongoDB, Expressjs, Reactjs, Nodejs), Java, Spring boot, Mysql, etc  </p>
 
-- ✨ Student of life :)
+- ✨ Learning and Growing :)
 - 🔭 I’m currently working on [youtube-twitter](https://github.com/0Rohit2022/TubeTweets)
 - ✍ I write blogs, You can visit my blog site at [hashnode](https://rohitkumar0.hashnode.dev/).
 - ❤ Contributing to Open Source.
