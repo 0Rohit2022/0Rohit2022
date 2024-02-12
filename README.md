@@ -1,26 +1,133 @@
 
-<h1 align="center">Hi 👋, I'm Rohit kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India.</h3>
 
-<img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148">
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0rohit2022&label=Profile%20views&color=0e75b6&style=flat" alt="0rohit2022" /> </p>
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Rohit 
+*FullStack Guy (Developer / Programmer)*
+<br /> 
 
-- 💬 Ask me about **Java, Spring, Microservices, Agile Scrum, MySQl, Hibernate, Spring boot, JSP, JSTL, Nodejs, HTML , CSS , JAVASCRIPT, J2ee, JDBC**
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer with a huge love for MERN(MongoDB, Expressjs, Reactjs, Nodejs), Java, Spring boot, Mysql, etc  </p>
 
-- 📫 How to reach me **rohitkumarrr2022@gmail.com**
+- ✨ Student of life :)
+- 🔭 I’m currently working on [youtube-twitter](https://github.com/0Rohit2022/TubeTweets)
+- ✍ I write blogs, You can visit my blog site at [hashnode](https://rohitkumar0.hashnode.dev/).
+- ❤ Contributing to Open Source.
+<!--- 💻 Visit my [Portfolio](https://portfolio.netlify.app/) for more details about me. -->
+<!--End Intro-->
 
-- ⚡ Thoughts:- **Searching For Someone To Blame Is Just A Pain.**
-
-<h3 align="left">Connect with me:</h3>
+<!--Profile Count Badge-->
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=0Rohit2022&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Rohit" style="padding-right:20px;" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0rohit2022&show_icons=true&locale=en&layout=compact" alt="0rohit2022" /></p>
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,mysql,java,springboot,microservices,jsp,servlet,html,css,appwrite,git,vscode,postman&perline=10"  />
+</p>
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0rohit2022&show_icons=true&locale=en" alt="0rohit2022" /></p>
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0rohit2022&" alt="0rohit2022" /></p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/0Rohit2022">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=0Rohit2022&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/0Rohit2022">
+          <img align="center" src="https://streak-stats.demolab.com?user=0Rohit2022&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/0Rohit2022/TubeTweets">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=0Rohit2022&repo=TubeTweets&theme=nightowl&show_owner=true" alt="youtube-twitter" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Languages</strong></h3>
+      <p align="center">
+        <a href="https://github.com/0Rohit2022">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Rohit2022&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0Rohit2022&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
+
+---
+
+<!--Dynamic Quote card updated everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+
+
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=What%20you%20get%20by%20achieving%20your%20goals%20is%20not%20as%20important%20as%20what%20you%20become%20by%20achieving%20your%20goals.&theme=dark&bg_color=011627&author_color=ffeb95">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
+
+
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+ <a href="https://in.linkedin.com/in/rohit-kumar-a56085237" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+<a href="mailto:rohitkumarrr2022@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=rohitkumarrr2022@gmail.com mail style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/_rohit_kumar_2_/" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=_rohit_kumar_2_ Instagram style="margin-bottom: 5px;" />
+</a>
+
+<!--
+<a href="https://twitter.com/" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
+</a> -->
+</div>
+<br/>
+
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
