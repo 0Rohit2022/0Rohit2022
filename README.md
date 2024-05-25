@@ -11,7 +11,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with a huge love for MERN(MongoDB, Expressjs, Reactjs, Nodejs), Java, Spring boot, Mysql, etc  </p>
+<p align="left">I am a Full Stack Developer with a huge love for RUST, BLOCKCHAIN, WEB3, C#, ASP.NET, AZURE Data Studio, MERN(MongoDB, Expressjs, Reactjs, Nodejs), Java, Spring boot, Mysql, etc  </p>
 
 - ✨ Learning and Growing :)
 - 🔭 I’m currently working on [youtube-twitter](https://github.com/0Rohit2022/TubeTweets)
