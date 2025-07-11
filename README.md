@@ -11,10 +11,10 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with a huge love for RUST, BLOCKCHAIN, WEB3, C#, ASP.NET, AZURE Data Studio, MERN(MongoDB, Expressjs, Reactjs, Nodejs), Java, Spring boot, Mysql, etc  </p>
+<p align="left">I am a Full Stack Developer with a huge love for C#, ASP.NET, AZURE Data Studio, MERN(MongoDB, Expressjs, Reactjs, Nodejs), Java, Spring boot, Mysql, etc  </p>
 
 - ✨ Learning and Growing :)
-- 🔭 I’m currently working on [youtube-twitter](https://github.com/0Rohit2022/TubeTweets)
+- 💼 Currently working as a Software Engineer at Tech Avant Garde
 - ✍ I write blogs, You can visit my blog site at [hashnode](https://rohitkumar0.hashnode.dev/).
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://rohit-kumar-portfolio0.netlify.app) for more details about me. 
@@ -31,7 +31,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,mysql,java,springboot,microservices,jsp,servlet,html,css,appwrite,git,vscode,postman&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=azure,bash,visualstudio,netlify,dotnet,cs,js,react,redux,tailwind,nodejs,express,mongo,mysql,java,springboot,microservices,jsp,servlet,html,css,appwrite,git,vscode,postman&perline=10"  />
 </p>
 <br />
 
@@ -61,7 +61,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/0Rohit2022/TubeTweets">
+        <a href="https://github.com/0Rohit2022/EffiTask">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=0Rohit2022&repo=TubeTweets&theme=nightowl&show_owner=true" alt="youtube-twitter" />
         </a>
       </p>
@@ -79,10 +79,11 @@
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<!--<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=0Rohit2022&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
+-->
 
 ---
 
