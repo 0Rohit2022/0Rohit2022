@@ -11,7 +11,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I'm a passionate Full Stack Developer based in Bangalore, Karnataka, with expertise in building scalable web applications using modern technologies like DotNet,C#,ASP.NET CORE,Java, Spring Boot,MERN STACK ,VM and Azure. I thrive on solving complex problems, optimizing performance, and delivering seamless user experiences. </p>
+<p align="left">I'm a passionate Full Stack Developer based in Bangalore, Karnataka, with expertise in building scalable web applications using modern technologies like DotNet, C#, ASP.NET CORE, Java, Spring Boot, MERN STACK ,VM and Azure. I thrive on solving complex problems, optimizing performance, and delivering seamless user experiences. </p>
 
 - ✨ Learning and Growing :)
 - 💼 Currently working as a Software Engineer at Tech Avant Garde
@@ -31,7 +31,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=azure,bash,visualstudio,netlify,dotnet,cs,js,react,redux,tailwind,nodejs,express,mongo,mysql,java,springboot,microservices,jsp,servlet,html,css,appwrite,git,vscode,postman&perline=10"  />
+<img width="200px"  src="https://skillicons.dev/icons?i=azure,bash,visualstudio,netlify,dotnet,cs,js,react,redux,tailwind,nodejs,express,mongo,mysql,java,spring,hibernate,html,css,appwrite,git,vscode,postman&perline=10"  />
 </p>
 <br />
 
