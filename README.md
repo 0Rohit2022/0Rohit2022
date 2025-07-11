@@ -11,7 +11,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with a huge love for C#, ASP.NET, AZURE Data Studio, MERN(MongoDB, Expressjs, Reactjs, Nodejs), Java, Spring boot, Mysql, etc  </p>
+<p align="left">I'm a passionate Full Stack Developer based in Bangalore, Karnataka, with expertise in building scalable web applications using modern technologies like DotNet,C#,ASP.NET CORE,Java, Spring Boot,MERN STACK ,VM and Azure. I thrive on solving complex problems, optimizing performance, and delivering seamless user experiences. </p>
 
 - ✨ Learning and Growing :)
 - 💼 Currently working as a Software Engineer at Tech Avant Garde
